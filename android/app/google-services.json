@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873615524458",
+    "project_id": "ewaste-89269",
+    "storage_bucket": "ewaste-89269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873615524458:android:717e84e7b357c35877c013",
+        "android_client_info": {
+          "package_name": "com.example.ewaste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbbIiJz0fmK0nkk-JoQW616GQu_ITJB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
